@@ -16,6 +16,7 @@
 - Mtp works
 - Reboot to system
 - External Storage (SD and OTG)
+- Decrypted
 
 ### Bugs
 - Storage (Encrypted, if lockscreen is enable.)
